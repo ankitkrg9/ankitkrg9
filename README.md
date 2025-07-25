@@ -9,7 +9,7 @@
 
 - 🌱 Currently learning **C#, JavaScript, and DSA**
 
-- 👨‍💻 All of my projects are available at [ankit-portfolio-krg.netlify.app](https://ankit-portfolio-krg.netlify.app)
+- 👨‍💻 All of my projects are available at [ankit-portfolio-krg.netlify.app](https://ankit-portfolio-krg9.netlify.app)
 
 - 📫 Reach me at **ank.1234321kit@gmail.com**
 
